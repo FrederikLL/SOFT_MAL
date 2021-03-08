@@ -7,4 +7,6 @@ After that i took time to sit down and understand how and why the solution worke
 
 I've fetched the complete works shakespeare file, but am just using a small fragment of it for quicker testing.
 
+If file doesn't show in github, try viewing it as raw.
+
 
